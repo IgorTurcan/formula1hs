@@ -1,1 +1,1 @@
-alias hs='stack build; clear; stack exec formula1hs-exe'
+hask formula1hs
